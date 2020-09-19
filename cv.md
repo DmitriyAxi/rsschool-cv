@@ -14,3 +14,8 @@ I'm design engineer. I like to find new abilities and challenges. In my free tim
 - Sense of duty;
 - Purposefulness;
 - English level: A2;
+### Education:
+**2012-2016** Bachelor of engineering in Saint-Petersburg Electrotechnical University;
+**2016-2018** Magister of engineering in Saint-Petersburg Electrotechnical University;
+### Hobbies:
+Books, swimming pool, travelling.
