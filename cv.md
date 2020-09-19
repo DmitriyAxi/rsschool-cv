@@ -7,3 +7,10 @@
 - **Mobile:** +79000000;
 - **Discord:** [DmitriyAxi](https://discord.com/ "contact me");
 - **Github:** [DmitriyAxi](https://github.com/DmitriyAxi "contact me");
+### About me:
+I'm design engineer. I like to find new abilities and challenges. In my free time I visit swimming pool.
+### Abilities:
+- Assiduity;
+- Sense of duty;
+- Purposefulness;
+- English level: A2;
